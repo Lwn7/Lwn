@@ -19,7 +19,7 @@ README page→[here](./README.md)
 ```c++
 #include <iostream>
 using namespace std;
-int mian()
+int main()
 {
   cout<<"hello world";
   return 0;
